@@ -1,4 +1,3 @@
-import { Wrapper } from './Statistics.styled';
 import { Notification } from 'components/Notification/Notification';
 
 export const Statistics = ({
